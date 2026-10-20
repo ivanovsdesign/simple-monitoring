@@ -1,0 +1,6 @@
+[submodule "spring-service"]
+	path = spring-service
+	url = git@github.com:ivanovsdesign/spring-service.git
+[submodule "python-service"]
+	path = python-service
+	url = git@github.com:ivanovsdesign/python-service.git
